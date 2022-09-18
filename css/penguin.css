@@ -151,7 +151,7 @@
 }
 .arm.left{
     top: 35%;
-    left: 5%;
+    left: 9.5%;
     transform-origin: top left;
     transform: rotate(130deg) scaleX(-1);
     animation: 3s linear infinite wave;
